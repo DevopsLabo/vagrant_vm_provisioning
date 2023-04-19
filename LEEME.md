@@ -33,3 +33,6 @@ ping 192.168.56.10
 ```
 vagrant ssh vm1
 ```
+
+5. Jugar con las VMs mediante los comandos disponibles en Vagrant
+[Guía útil de comandos de Vagrant](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
