@@ -20,7 +20,7 @@ git clone https://github.com/DevopsLabo/vagrant_vm_provisioning.git
 
 2. Ejecutar el aprovisionamiento, desde el directorio del proyecto
 ```
-cd ./vagrant_basics
+cd ./vagrant_vm_provisioning
 ```
 ```
 vagrant up
