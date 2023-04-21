@@ -15,7 +15,7 @@ Se incluyen archivos:
 ## Paso a paso
 1. Clonar el repositorio en un directorio local
 ```
-git clone https://github.com/DevopsLabo/vagrant_basics.git
+git clone https://github.com/DevopsLabo/vagrant_vm_provisioning.git
 ```
 
 2. Ejecutar el aprovisionamiento, desde el directorio del proyecto
