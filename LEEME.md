@@ -36,3 +36,8 @@ vagrant ssh vm1
 
 5. Jugar con las VMs mediante los comandos disponibles en Vagrant
 - [Guía útil de comandos de Vagrant](https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4)
+
+6. Para dar de baja las VMs en forma definitiva ejecutar, en el directorio local
+```
+vagrant destroy
+```
